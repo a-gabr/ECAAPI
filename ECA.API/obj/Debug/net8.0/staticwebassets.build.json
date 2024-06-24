@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "0IcZW1kf9gP3mubrHHUn5ZX5fWuxClb0WGmxrqn1nhc=",
+  "Source": "ECA.API",
+  "BasePath": "_content/ECA.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
